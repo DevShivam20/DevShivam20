@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Front-End Projects**
+ 🔭 I’m currently working on **Front-end Projects**
  
  🌱 I’m currently learning **Everything**
 
@@ -36,13 +36,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/devshivam20/devshivam20/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
